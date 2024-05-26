@@ -67,4 +67,3 @@ extension AutocompleteView: UITableViewDataSource, UITableViewDelegate {
         onSelectOption?(options[indexPath.row])
     }
 }
-

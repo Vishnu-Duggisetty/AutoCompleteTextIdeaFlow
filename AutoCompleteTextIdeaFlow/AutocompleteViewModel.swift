@@ -94,3 +94,4 @@ class AutocompleteViewModel: AutocompleteViewModelProtocol {
         textView.selectedRange = NSRange(location: newCursorPosition, length: 0)
     }
 }
+
